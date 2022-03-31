@@ -1,2 +1,2 @@
 # VisionModels
-Implementing and Fine-tuning vision models
+Implementing and Hyper-parameters tuning vision models
